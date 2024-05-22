@@ -16,39 +16,32 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/victor___fernandes_______/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/victor___fernandes_______/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR](https://discord.gg/85B85GAMaz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pilativictor34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-fernandes-pilati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-Um breve resumo sobre o que é o seu projeto, o que ele faz e por que ele é incrível!
 
-## 📋 Índice
 
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+## 📋 Sobre mim
+Bem, falando um pouco sobre mim, meu nome é Victor, tenho 18 anos, sou um aspirante a programador, desde 2021 eu comecei a estudar programação na Etec e em 2024 entrei na faculdade na mesma área e amei. Estou em constante desenvolvimento, sempre querendo aprender mais e mais, aprimorando as linguagens que eu sei e buscando novas linguagens
 
-## 📖 Descrição
+## 📖 Objetivos
 
-Detalhe mais sobre o seu projeto, explicando suas motivações, os problemas que ele resolve e como ele foi criado. 
+Meus Objetivos são:
+- ***Trabalhar na área de programação***
+- ***Ser bom no que eu faço***
+- ***Me mudar para os Estados Unidos***
+- ***Aprender diversas linguagens de programação***
+## ✨ Qualidades
 
-## ✨ Funcionalidades
+- *** Trabalho em equipe***
+- ***Proátivo***
+- ***Responsável***
+- ***Conhecimento em linguagens de programação como, HTML5 e CSS3 em nível avançado JS, C# e SQL em nível intermediário PHP e REACT nível básico***
+- ***Conhecimento em Pacote Office***
+- ***Fácilidade em aprender***
+- ***Inglês Avançado***
 
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
-- ...
 
-## 🚀 Instalação
-
-Para instalar e rodar o projeto localmente, siga estas etapas:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/projeto.git
