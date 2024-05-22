@@ -25,24 +25,24 @@
 
 
 ## 📋 Sobre mim
-Bem, falando um pouco sobre mim, meu nome é Victor, tenho 18 anos, sou um aspirante a programador, desde 2021 eu comecei a estudar programação na Etec e em 2024 entrei na faculdade na mesma área e amei. Estou em constante desenvolvimento, sempre querendo aprender mais e mais, aprimorando as linguagens que eu sei e buscando novas linguagens
+Sou programador Front-end desde 2021, com ênfase em desenolvimento Web. Estou em constante desenvolvimento, sempre querendo aprender mais e mais, aprimorando as linguagens que conheço e buscando novas linguagens
 
 ## 📖 Objetivos
 
 Meus Objetivos são:
 - ***Trabalhar na área de programação***
 - ***Ser bom no que eu faço***
-- ***Me mudar para os Estados Unidos***
-- ***Aprender diversas linguagens de programação***
+- ***Aprender mais linguagens de programação***
+
 ## ✨ Qualidades
 
 - ***Trabalho em equipe***
 - ***Proátivo***
 - ***Responsável***
-- ***Conhecimento em linguagens de programação como, HTML5 e CSS3 em nível avançado JS, C# e SQL em nível intermediário PHP e REACT nível básico***
+- ***Conhecimento em linguagens de programação JS, C# e SQL em nível intermediário PHP e REACT nível básico***
 - ***Conhecimento em Pacote Office***
 - ***Fácilidade em aprender***
-- ***Inglês Avançado***
+- ***Inglês C1***
 
 
 
