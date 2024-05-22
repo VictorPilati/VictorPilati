@@ -36,7 +36,7 @@ Meus Objetivos são:
 - ***Aprender diversas linguagens de programação***
 ## ✨ Qualidades
 
-- *** Trabalho em equipe***
+- ***Trabalho em equipe***
 - ***Proátivo***
 - ***Responsável***
 - ***Conhecimento em linguagens de programação como, HTML5 e CSS3 em nível avançado JS, C# e SQL em nível intermediário PHP e REACT nível básico***
