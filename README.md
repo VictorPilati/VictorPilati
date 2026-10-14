@@ -25,7 +25,7 @@
 
 
 ## 📋 Sobre mim
-Sou programador Front-end desde 2021, com ênfase em desenolvimento Web. Estou em constante desenvolvimento, sempre querendo aprender mais e mais, aprimorando as linguagens que conheço e buscando novas linguagens
+Sou programador Front-end desde 2021, com ênfase em desenvolvimento Web. Estou em constante desenvolvimento, sempre querendo aprender mais e mais, aprimorando as linguagens que conheço e buscando novas linguagens
 
 ## 📖 Objetivos
 
